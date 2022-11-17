@@ -1,0 +1,3 @@
+#LR_4
+# ignoring .txt files in repo
+*.txt
